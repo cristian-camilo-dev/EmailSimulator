@@ -64,3 +64,27 @@
   gap: 1rem;
   
 }
+
+.label-info{
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+#label-email{
+  display: flex;
+  justify-content: space-between;
+}
+
+.error-label{
+  color: red;
+  font-size: 0.8rem;
+}
+
+.input-error{
+  border: thick ridge tomato;
+}
+
+.input-success{
+  border: thick ridge rgb(7, 197, 7);
+}
